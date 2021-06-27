@@ -9,7 +9,9 @@
 * [License](#license)
 
 
-## Deployed URL
+## Deployed Heroku URL
+
+[https://vast-hamlet-45250.herokuapp.com/](https://vast-hamlet-45250.herokuapp.com/)
 
 
 ## Usage
