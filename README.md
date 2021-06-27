@@ -19,6 +19,9 @@
 ### Description
     A simple PWA budget-tracker that allows users to easily log and track income and expenses. 
 
+### Screenshot of Deployed Site
+![screenshot](./assets/img/screenshot.png)
+
 ### Languages/Technologies
 Node, Express, Compression, Mongoose, MongoDb, Morgan, IndexDb, HTML, CSS, Bootstrap, Chart.js
 
